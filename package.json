@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@hapi/boom": "8.x.x",
-    "@hapi/hapi": "18.x.x",
+    "@hapi/hapi": "19.x.x",
     "@hapi/joi": "16.x.x",
     "avocat": "^1.1.0",
     "blipp": "^4.0.1",
