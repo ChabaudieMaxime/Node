@@ -20,7 +20,7 @@
     "@hapi/joi": "16.x.x",
     "avocat": "^1.1.0",
     "blipp": "^4.0.1",
-    "got": "^10.5.5",
+    "got": "^11.8.5",
     "hapi-auth-jwt2": "^8.8.1",
     "hapi-swagger": "11.0.0",
     "haute-couture": "3.x.x",
